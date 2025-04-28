@@ -1,7 +1,7 @@
 # DockInspect
 
 **DockInspect** is a Python tool for analyzing and visualizing protein–ligand docking results.  
-It provides command-line utilities and visualization features built on top of PyMOL and FreeSASA.
+It provides command-line utilities and visualization features built on top of PyMOL, RDKit and FreeSASA.
 
 ---
 
